@@ -19,5 +19,5 @@ import { WhatsappButtonComponent } from './components/shared/whatsapp-button/wha
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Portfolio of Javeed Ishaq - Software Developer';
+  title = 'Portfolio of Hiba Khadel - Full stack Developer';
 }

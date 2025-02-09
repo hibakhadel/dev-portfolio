@@ -1,11 +1,10 @@
 export const contactsData = {
-    email: 'ishaqjaveed1@gmail.com',
-    phone: '+923217281104',
-    address: 'Sahiwal, Punjab, Pakistan',
-    github: 'https://github.com/javeedishaq',
-    facebook: 'https://web.facebook.com/javeedishaq',
-    linkedIn: 'https://www.linkedin.com/in/javeed-ishaq/',
-    twitter: 'https://twitter.com/javeedishaq',
-    stackOverflow: 'https://stackoverflow.com/users/4778545/javeed-ishaq',
-    devUsername: "javeedishaq"
+    email: 'hibakhadel17@gmail.com', phone: '+212 673684266',
+    address: 'Ain Chok, Casablanca, Morocco',
+  github: 'https://github.com/hibakhadel',
+  facebook: 'https://www.facebook.com/profile.php?id=61571621707942',
+  linkedIn: 'https://www.linkedin.com/in/hiba-khadel/',
+  twitter: 'https://x.com/hiba_khadel',
+  stackOverflow: 'https://stackoverflow.com/users/29052100',
+  devUsername: "hibakhadel",
 }

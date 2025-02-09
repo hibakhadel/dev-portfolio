@@ -5,7 +5,7 @@ export const environment = {
     gtmId: 'GTM-KVLRVX5R',
     apiUrl: 'https://your-api-url.com',
     recaptcha: {
-        siteKey: '6LeNlpwqAAAAAIMpN3UDHUcGAjsRXst_RRCpPlRW' // Replace with your reCAPTCHA site key
+        siteKey: '6LcWlcoqAAAAAIZOklPXv2KeBVNVYUi7VbUgK1Py' // Replace with your reCAPTCHA site key
     },
     emailJs: {
         publicKey: process.env['EMAILJS_PUBLIC_KEY'] || '',
