@@ -3,4 +3,5 @@ export interface Experience {
     duration: string;
     title: string;
     company: string;
+    description?: string;
 }
